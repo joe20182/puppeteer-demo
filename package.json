@@ -1,0 +1,23 @@
+{
+  "name": "puppepeer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe20182/puppepeer-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe20182/puppepeer-demo/issues"
+  },
+  "homepage": "https://github.com/joe20182/puppepeer-demo#readme",
+  "dependencies": {
+    "puppeteer-core": "^5.5.0"
+  }
+}
